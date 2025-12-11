@@ -19,3 +19,4 @@ first person to hit the most combos wins -Just memorize the cards well.
 ⦁ How to Run the Program -install, HTML, PHP, JAVASCRIPT. -Use VSCODE. -Just run the code in the IDE.
 
 IMAGES https://drive.google.com/drive/u/0/folders/1ZmFjL7xm5SOx2f_N-CR2WNPxMRUi7kvm
+VIDEO DEMONSTRATION: https://drive.google.com/drive/folders/156rOqvDuYp328oyvEmM9MEtGDbs2uPXe?usp=drive_link
